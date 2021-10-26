@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeShuhan666 
 - 👀 I’m interested in coding in Python, JavaScripts
-- 🌱 I’m currently learning how to be a better programmer 
-- 💞️ I’m looking to collaborate on new interesting full stack projcts
+- 🌱 I’m currently learning how to be a better full stack developer --- it's just my hobby!  
+- 💞️ I’m looking to collaborate on new interesting full stack or front-end focus, especially website projcts
 - 📫 How to reach me: plz email me @ junius.sapisk@gmail.com
 
 <!---
